@@ -30,11 +30,12 @@ Here are some ideas to get you started:
 -  **💬 Ask me about :** Anything!, I would love to find a solution for that :v:
 -  **⚡ Fun fact :** Developers love coffee:sweat_smile: but, I prefer tea :heart: 
 -  **😄 Pronouns :** He/Him/His 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-- 💻 &nbsp; Python | Javascript 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Material UI | Node.js | ReactJS
-- 🛢  &nbsp; SQL | PostgreSQL | MongoDB
-- 🔧 &nbsp; Visual Studio | Git | Github | Postman API | Markdown 
+  
+### 🛠 &nbsp;Tech Stack
+-  💻 &nbsp; Python | Javascript 
+-  🌐 &nbsp; HTML | CSS | Bootstrap | Material UI | Node.js | ReactJS
+-  🛢  &nbsp; SQL | PostgreSQL | MongoDB
+-  🔧 &nbsp; Visual Studio | Git | Github | Postman API | Markdown 
 
 
 
