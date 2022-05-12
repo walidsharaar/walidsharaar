@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hello, I'm Walid Sharaar👋 </h1>
-<h4 align="center"> a Software Engineer who is Data Science enthusiast and based in Hamburg, Germany </h4> <br>
+<h4 align="center"> a Software Engineer who is Data Science enthusiast and based in Hamburg, Germany. </h4> <br>
 <p align = "center">
 <a href="https://www.linkedin.com/in/sharaar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </p>
