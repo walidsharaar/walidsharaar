@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 - 💻 &nbsp; Python | Javascript 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Material UI | Node.js | ReactJS
 - 🛢  &nbsp; SQL | PostgreSQL | MongoDB
-- 🔧 &nbsp; Visual Studio | Git | Github | Postman API | Markdown | Android Studio
+- 🔧 &nbsp; Visual Studio | Git | Github | Postman API | Markdown 
 
-</br>
+
 
 <p align="center">
 <a  href="https://github.com/walidsharaar">
