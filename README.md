@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hello, I'm Walid Sharaar👋 </h1>
-<h3 align="center">  Software Engineer who is | Data Science Enthusiast</h3> <br>
+<h3 align="center">  a Software Engineer who is Data Science Enthusiast</h3> 
 <h4 align="center">  Based in Hamburg, Germany </h4> <br>
 <p align="center"> 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/sharaar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  
- </p>
+<a href="https://www.linkedin.com/in/sharaar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</p>
 
 ### 🤔 About
   
