@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hello, I'm Walid Sharaar👋 </h1>
-<h3 align="center">  a Software Engineer who is Data Science enthusiast</h3> 
-<h4 align="center">  Based in Hamburg, Germany </h4> <br>
+<h4 align="center"> a Software Engineer who is Data Science enthusiast and based in Hamburg, Germany </h4> <br>
 <p align = "center">
 <a href="https://www.linkedin.com/in/sharaar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </p>
@@ -30,16 +29,12 @@ Here are some ideas to get you started:
 -  **:heart: Hobbies :** Books :books: | Music :headphones: | Cycling and walking in the countryside🚴‍
 -  **💬 Ask me about :** Anything!, I would love to find a solution for that :v:
 -  **⚡ Fun fact :** Developers love coffee:sweat_smile: but, I prefer tea :heart: 
--  **😄 Pronouns :** He/Him/His
--  
+-  **😄 Pronouns :** He/Him/His 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
-
 - 💻 &nbsp; Python | Javascript 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Material UI | Node.js | ReactJS
 - 🛢  &nbsp; PostgreSQL | MongoDB
 - 🔧 &nbsp; Visual Studio | Git | Github | Postman API | Markdown | Android Studio
-
 
 <p align="center">
 <a  href="https://github.com/walidsharaar">
