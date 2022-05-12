@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### 🤔 About
   
--  **🎓 Master in Data Analytics and Information Managerment Systems, Berlin , Germany.
+-  🎓 Master in Data Analytics and Information Managerment Systems, Berlin , Germany.
 -  **💼 Working :**  Full-Stack Development :computer: | Data Analytics :cloud:  :fire:
 -  **🌱 Learning :** Docker & AWS | Data Science :zap: | Passionate :fire:	
 -  **:heart: Hobbies :** Books :books: | Music :headphones: | Cycling and walking in the countryside🚴‍
