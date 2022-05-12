@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 🤔 About
   
--  🎓 Master in Data Analytics and Information Managerment Systems, Berlin , Germany.
+-  **🎓 Master ** degree in ** Data Analytics ** and ** Information Management Systems ** , Berlin , Germany.
 -  **💼 Working :**  Full-Stack Development :computer: | Data Analytics :cloud:  :fire:
 -  **🌱 Learning :** Docker & AWS | Data Science :zap: | Passionate :fire:	
 -  **:heart: Hobbies :** Books :books: | Music :headphones: | Cycling and walking in the countryside🚴‍
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <h3> 🛠 &nbsp;Tech Stack</h3>
 - 💻 &nbsp; Python | Javascript 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Material UI | Node.js | ReactJS
-- 🛢  &nbsp; PostgreSQL | MongoDB
+- 🛢  &nbsp; SQL | PostgreSQL | MongoDB
 - 🔧 &nbsp; Visual Studio | Git | Github | Postman API | Markdown | Android Studio
 
 <p align="center">
