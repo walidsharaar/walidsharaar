@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Walid 👋
 
 <!--
 **walidsharaar/walidsharaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I'm a Full-Stack Developer and Data Analyst based in Hamburg, Germany.
+
+<h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
+
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/sharaar/">LinkedIn</a>
+- 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/millyfeet">Spotify</a>
+
