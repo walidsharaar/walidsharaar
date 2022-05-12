@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 🤔 About
   
 -  🎓 Master degree in  Data Analytics  and  Information Management Systems, Berlin , Germany.
--  **💼 Working :**  Full-Stack Development :computer: | Data Analytics :cloud:  :fire:
+-  **💼 Working :**  Full-Stack Development :computer: | Data Analytics :cloud:
 -  **🌱 Learning :** Docker & AWS | Data Science :zap: | Passionate :fire:	
 -  **:heart: Hobbies :** Books :books: | Music :headphones: | Cycling and walking in the countryside🚴‍
 -  **💬 Ask me about :** Anything!, I would love to find a solution for that :v:
