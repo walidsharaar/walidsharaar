@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 🤔 About
   
--  **🎓 Master ** degree in ** Data Analytics ** and ** Information Management Systems ** , Berlin , Germany.
+-  🎓 Master degree in  Data Analytics  and  Information Management Systems, Berlin , Germany.
 -  **💼 Working :**  Full-Stack Development :computer: | Data Analytics :cloud:  :fire:
 -  **🌱 Learning :** Docker & AWS | Data Science :zap: | Passionate :fire:	
 -  **:heart: Hobbies :** Books :books: | Music :headphones: | Cycling and walking in the countryside🚴‍
@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Material UI | Node.js | ReactJS
 - 🛢  &nbsp; SQL | PostgreSQL | MongoDB
 - 🔧 &nbsp; Visual Studio | Git | Github | Postman API | Markdown | Android Studio
+
+</br>
 
 <p align="center">
 <a  href="https://github.com/walidsharaar">
