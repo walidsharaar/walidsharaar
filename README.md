@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   
 ### 🛠 &nbsp;Tech Stack
 -  💻 &nbsp; Python | Javascript 
+-  📊 &nbsp; Power BI | Tableau 
 -  🌐 &nbsp; HTML | CSS | Bootstrap | Material UI | Node.js | ReactJS
 -  🛢  &nbsp; SQL | MS SQL |PostgreSQL 
 -  🔧 &nbsp; Visual Studio | Git | Github | Postman API | Markdown 
