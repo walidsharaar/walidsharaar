@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -  **🎓 Master degree in  Data Analytics  and  Information Management Systems:**.
 -  **🌱 Keep Learning :**  Data Science :zap: | Cloud Computing | Statistics :fire:	
 -  **:heart: Hobbies :** Books :books: | Music :headphones: | Cycling and walking in the countryside🚴‍
--  **💬 Ask me about :** Anything!, I would love to find a solution for that :v:
+<!---  **💬 Ask me about :** Anything!, I would love to find a solution for that :v:-->
 -  **⚡ Fun fact :** Developers love coffee:sweat_smile: but, I prefer tea :heart: 
 -  **😄 Pronouns :** He/Him/His 
   
