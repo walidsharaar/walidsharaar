@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hello, I'm Walid Sharaar👋 </h1>
+<h1 align="center"> Hello, I'm Walid Sharaar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </h1>
 <!--<h4 align="center"> a Software Engineer who is a Data Science enthusiast based in Hamburg, Germany. </h4> <br> -->
 <p align = "center">
 <a href="https://www.linkedin.com/in/sharaar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat square&logo=linkedin&logoColor=white" alt="LinkedIn">
