@@ -47,7 +47,7 @@ I'm an **Application Manager** who is based in Hamburg and working at [Syncordis
 
 
 
-<p align="center">
+<p >
 <a  href="https://github.com/walidsharaar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidsharaar&theme=buefy&layout=compact" />
 </a>
