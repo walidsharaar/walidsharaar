@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hello, I'm Walid Sharaar👋 </h1>
-<h4 align="center"> a Software Engineer who is a Data Science enthusiast based in Hamburg, Germany. </h4> <br>
+<!--<h4 align="center"> a Software Engineer who is a Data Science enthusiast based in Hamburg, Germany. </h4> <br> -->
 <p align = "center">
 <a href="https://www.linkedin.com/in/sharaar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </p>
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 ### 🤔 About
   
 -  🎓 Master degree in  Data Analytics  and  Information Management Systems, Berlin , Germany.
--  **💼 Working :**  Full-Stack Development :computer: | Data Analytics :cloud:
--  **🌱 Learning :** Docker & AWS | Data Science :zap: | Passionate :fire:	
+-  **💼 Desired Working Area :**  Data Analytics :computer: | Data Management 📊 | Full Stack Development :cloud:
+-  **🌱 Keep Learning :**  Data Science :zap: | Cloud Computing | Statistics :fire:	
 -  **:heart: Hobbies :** Books :books: | Music :headphones: | Cycling and walking in the countryside🚴‍
 -  **💬 Ask me about :** Anything!, I would love to find a solution for that :v:
 -  **⚡ Fun fact :** Developers love coffee:sweat_smile: but, I prefer tea :heart: 
