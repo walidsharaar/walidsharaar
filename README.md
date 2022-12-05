@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 </br>
 
-<img align="right" alt="GIF" src="https://github.com/walidsharaar/walidsharaar/blob/main/code.gif?raw=true" width="500" height="320" />
+<img alt="GIF" src="https://github.com/walidsharaar/walidsharaar/blob/main/code.gif?raw=true" width="500" height="320" />
   
 ### 🛠 &nbsp;Tech Stack
 -  💻 &nbsp; Python | Javascript 
