@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 <!---  **💬 Ask me about :** Anything!, I would love to find a solution for that :v:-->
 -  **⚡ Fun fact :** Developers love coffee:sweat_smile: but, I prefer tea :heart: 
 -  **😄 Pronouns :** He/Him/His 
+
+</br>
+
+<img align="right" alt="GIF" src="https://github.com/walidsharaar/walidsharaar/blob/main/code.gif?raw=true" width="500" height="320" />
   
 ### 🛠 &nbsp;Tech Stack
 -  💻 &nbsp; Python | Javascript 
