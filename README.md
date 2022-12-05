@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
 
 -  **💼 Desired Working Area :**  Data Analytics :computer: | Data Management 📊 | Full Stack Development :cloud:
--  🎓 Master degree in  Data Analytics  and  Information Management Systems.
+-  **🎓 Master degree in  Data Analytics  and  Information Management Systems:**.
 -  **🌱 Keep Learning :**  Data Science :zap: | Cloud Computing | Statistics :fire:	
 -  **:heart: Hobbies :** Books :books: | Music :headphones: | Cycling and walking in the countryside🚴‍
 -  **💬 Ask me about :** Anything!, I would love to find a solution for that :v:
