@@ -28,14 +28,13 @@ I'm an Application Manager who is based in Hamburg and working at [Syncordis](ht
 -  **🎓 Master degree in  Data Analytics  and  Information Management Systems:**.
 -  **🌱 Keep Learning :**  Data Science :zap: | Cloud Computing | Statistics :fire:	
 -  **:heart: Hobbies :** Books :books: | Music :headphones: | Cycling and walking in the countryside🚴‍
-<!---  **💬 Ask me about :** Anything!, I would love to find a solution for that :v:-->
 -  **⚡ Fun fact :** Developers love coffee:sweat_smile: but, I prefer tea :heart: 
--  **😄 Pronouns :** He/Him/His 
+ **💬 Ask me about :** Anything!, I would love to find a solution for that :v:
 
 </br>
-
-<img alt="GIF" src="https://github.com/walidsharaar/walidsharaar/blob/main/code.gif?raw=true" width="600" height="320" align="center" />
 <!--
+<img alt="GIF" src="https://github.com/walidsharaar/walidsharaar/blob/main/code.gif?raw=true" width="600" height="320" align="center" />
+
 ### 🛠 &nbsp;Tech Stack
 -  💻 &nbsp; Python | Javascript 
 -  📊 &nbsp; Power BI | Tableau 
