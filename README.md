@@ -29,9 +29,15 @@ I'm an Application Manager who is based in Hamburg and working at [Syncordis](ht
 -  **🌱 Keep Learning :**  Data Science :zap: | Cloud Computing | Statistics :fire:	
 -  **:heart: Hobbies :** Books :books: | Music :headphones: | Cycling and walking in the countryside🚴‍
 -  **⚡ Fun fact :** Developers love coffee:sweat_smile: but, I prefer tea :heart: 
- **💬 Ask me about :** Anything!, I would love to find a solution for that :v:
+-  **💬 Ask me about :** Anything!, I would love to find a solution for that :v:
 
 </br>
+
+<p >
+<a  href="https://github.com/walidsharaar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidsharaar&theme=buefy&layout=compact" />
+</a>
+</p>
 <!--
 <img alt="GIF" src="https://github.com/walidsharaar/walidsharaar/blob/main/code.gif?raw=true" width="600" height="320" align="center" />
 
@@ -44,8 +50,3 @@ I'm an Application Manager who is based in Hamburg and working at [Syncordis](ht
 -->
 
 
-<p >
-<a  href="https://github.com/walidsharaar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidsharaar&theme=buefy&layout=compact" />
-</a>
-</p>
