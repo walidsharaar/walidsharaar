@@ -33,7 +33,7 @@ I'm an Application Manager who is based in Hamburg and working at [Syncordis](ht
 -  **😄 Pronouns :** He/Him/His 
 
 </br>
-
+<!--
 <img alt="GIF" src="https://github.com/walidsharaar/walidsharaar/blob/main/code.gif?raw=true" width="600" height="320" align="center" />
   
 ### 🛠 &nbsp;Tech Stack
@@ -42,7 +42,7 @@ I'm an Application Manager who is based in Hamburg and working at [Syncordis](ht
 -  🌐 &nbsp; HTML | CSS | Bootstrap | Material UI | Node.js | ReactJS
 -  🛢  &nbsp; SQL | MS SQL |PostgreSQL 
 -  🔧 &nbsp; Visual Studio | Git | Github | Postman API | Markdown 
-
+-->
 
 
 <p >
