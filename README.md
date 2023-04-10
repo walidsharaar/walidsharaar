@@ -17,13 +17,28 @@ Here are some ideas to get you started:
 <p>
   Welcome to my GitHub repository showcasing my passion for database development, database management, data analytics, and software engineering! 🚀🔥
 </p>
-I'm an Application Manager who is based in Hamburg and working at [Syncordis](https://www.syncordisconsulting.com/). My regular work involves responding to ad-hoc requests from stakeholders and data management of the systems.  I'm open to collaborate on interesting Data Science projects.
+
+<h2>  About Me </h2>
+<p>
+I am an Application Manager based in Hamburg and working at [Syncordis] (https://www.syncordisconsulting.com/) . My regular work involves responding to ad-hoc requests from stakeholders and data management of the systems. I am passionate about data analytics, data management, and full-stack development. I hold a Master's degree in Data Analytics and Information Management Systems. 🎓📊
+</p>
 
 <!--<h4 align="center"> a Software Engineer who is a Data Science enthusiast based in Hamburg, Germany. </h4> <br> -->
 <p align = "center">
 <a href="https://www.linkedin.com/in/sharaar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </p>
 
+ <h2>Desired Working Area</h2> 
+ <p>
+I am interested in working in the following areas:
+-  ** Data Analytics 💻
+-  ** Data Management 📊
+-  ** Full Stack Development ☁️
+</p>
+  
+  
+  
+  
 ### 🤔 About
   
 
