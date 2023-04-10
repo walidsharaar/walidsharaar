@@ -25,7 +25,7 @@ I am an Application Manager based in Hamburg and working at [Syncordis] (https:/
 
 <!--<h4 align="center"> a Software Engineer who is a Data Science enthusiast based in Hamburg, Germany. </h4> <br> -->
 <p align = "center">
-<a href="https://www.linkedin.com/in/sharaar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat square&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/walidsharaar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </p>
 <h2>Desired Working Area</h2> 
 <p>
@@ -60,7 +60,7 @@ I am interested in working in the following areas:</br>
   <p>
 I am open to collaborations on interesting data science projects. Please feel free to reach out to me on LinkedIn or through GitHub for any inquiries or collaborations. Let's work together to find solutions and create innovative solutions! ✌️
   </br>
-  LinkedIn: [Walid Sharaar] (https://www.linkedin.com/in/sharaar/)  💼🔗
+  LinkedIn: [Walid Sharaar](https://www.linkedin.com/in/walidsharaar)  💼🔗
 </p>
 <!--
 <img alt="GIF" src="https://github.com/walidsharaar/walidsharaar/blob/main/code.gif?raw=true" width="600" height="320" align="center" />
