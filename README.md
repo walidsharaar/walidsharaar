@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hello, I'm Walid Sharaar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </h1>
+<h1 align="center"> Welcome to my GitHub repository showcasing my passion for database development, database management, data analytics, and software engineering! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </h1>
 <p>
   Welcome to my GitHub repository showcasing my passion for database development, database management, data analytics, and software engineering! 🚀🔥
 </p>
