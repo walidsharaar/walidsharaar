@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hello, I'm Walid Sharaar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </h1>
+<p>
+  Welcome to my GitHub repository showcasing my passion for database development, database management, data analytics, and software engineering! 🚀🔥
+</p>
 I'm an Application Manager who is based in Hamburg and working at [Syncordis](https://www.syncordisconsulting.com/). My regular work involves responding to ad-hoc requests from stakeholders and data management of the systems.  I'm open to collaborate on interesting Data Science projects.
 
 <!--<h4 align="center"> a Software Engineer who is a Data Science enthusiast based in Hamburg, Germany. </h4> <br> -->
