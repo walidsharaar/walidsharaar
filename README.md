@@ -27,34 +27,40 @@ I am an Application Manager based in Hamburg and working at [Syncordis] (https:/
 <p align = "center">
 <a href="https://www.linkedin.com/in/sharaar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </p>
-
- <h2>Desired Working Area</h2> 
- <p>
+<h2>Desired Working Area</h2> 
+<p>
 I am interested in working in the following areas:</br>
--  ** Data Analytics 💻</br>
--  ** Data Management 📊</br>
--  ** Full Stack Development ☁️ </br>
+* Data Analytics 💻</br>
+* Data Management 📊</br>
+* Full Stack Development ☁️ </br>
 </p>
-  
-  
-  
-  
-### 🤔 About
-  
 
--  **💼 Desired Working Area :**  Data Analytics :computer: | Data Management 📊 | Full Stack Development :cloud:
--  **🎓 Master degree in  Data Analytics  and  Information Management Systems:**.
--  **🌱 Keep Learning :**  Data Science :zap: | Cloud Computing | Statistics :fire:	
--  **:heart: Hobbies :** Books :books: | Music :headphones: | Cycling and walking in the countryside🚴‍
--  **⚡ Fun fact :** Developers love coffee:sweat_smile: but, I prefer tea :heart: 
--  **💬 Ask me about :** Anything!, I would love to find a solution for that :v:
+<h2>Skills and Interests</h2> 
+<p>
 
-</br>
+* I have expertise in data analytics, data management, and software engineering, using technologies such as Power BI, MSBI, Python, SQL, C#, JavaScript, and various databases (e.g., Postgre SQL, MongoDB, SQL Server, Azure). 💼🔧</br>
+* I am constantly learning and improving my skills in data science, cloud computing, and statistics. 🌱📈 </br>
+* I enjoy reading books, listening to music, and cycling/walking in the countryside as my hobbies. 📚🎧🚴‍ </br>
+* Fun fact: While developers love coffee, I prefer tea ❤️☕️. </br>
+</p>
 
-<p >
+ <p >
 <a  href="https://github.com/walidsharaar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidsharaar&theme=buefy&layout=compact" />
 </a>
+</p>
+ <h2>Project Highlights</h2>
+ <p>Here are some of the projects that highlight my expertise and interests: will structure the project here soon :)
+<ol>
+  <li></li>
+</ol>
+</p>
+  
+  <h2>Contact Me</h2>
+  <p>
+I am open to collaborations on interesting data science projects. Please feel free to reach out to me on LinkedIn or through GitHub for any inquiries or collaborations. Let's work together to find solutions and create innovative solutions! ✌️
+  </br>
+  LinkedIn: [Walid Sharaar] (https://www.linkedin.com/in/sharaar/)  💼🔗
 </p>
 <!--
 <img alt="GIF" src="https://github.com/walidsharaar/walidsharaar/blob/main/code.gif?raw=true" width="600" height="320" align="center" />
