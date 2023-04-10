@@ -1,7 +1,4 @@
-<p> align="center"> Welcome to my GitHub repository showcasing my passion for database development, database management, data analytics, and software engineering! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </p>
-
-
+<p> Welcome to my GitHub repository showcasing my passion for database development, database management, data analytics, and software engineering!  </p>
 <h2>  About Me </h2>
 <p>
 I am an Application Manager based in Hamburg and working at [Syncordis] (https://www.syncordisconsulting.com/) . My regular work involves responding to ad-hoc requests from stakeholders and data management of the systems. I am passionate about data analytics, data management, and full-stack development. I hold a Master's degree in Data Analytics and Information Management Systems. 🎓📊
