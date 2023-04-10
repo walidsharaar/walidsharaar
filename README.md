@@ -30,10 +30,10 @@ I am an Application Manager based in Hamburg and working at [Syncordis] (https:/
 
  <h2>Desired Working Area</h2> 
  <p>
-I am interested in working in the following areas:
--  ** Data Analytics 💻
--  ** Data Management 📊
--  ** Full Stack Development ☁️
+I am interested in working in the following areas:</br>
+-  ** Data Analytics 💻</br>
+-  ** Data Management 📊</br>
+-  ** Full Stack Development ☁️ </br>
 </p>
   
   
