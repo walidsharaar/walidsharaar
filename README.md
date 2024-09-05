@@ -4,11 +4,11 @@ Hello 👋 I’m Walid Sharaar, a professional <b>Data Manager with over 9 years
 </p>
 
 </h2>📫 Contact</h2>
-<p>
+
 * Email: walidsharar@gmail.com
 * LinkedIn: [Walid Sharaar](https://www.linkedin.com/in/walidsharaar)  
 * Location: Hamburg, Germany
-</p>
+  
 <!--<h4 align="center"> a Software Engineer who is a Data Science enthusiast based in Hamburg, Germany. </h4> <br> -->
 <p align = "center">
 <a href="https://www.linkedin.com/in/walidsharaar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat square&logo=linkedin&logoColor=white" alt="LinkedIn">
