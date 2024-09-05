@@ -9,10 +9,6 @@ Hello 👋 I’m Walid Sharaar, a professional <b>Data Manager with over 9 years
 * LinkedIn: [Walid Sharaar](https://www.linkedin.com/in/walidsharaar)  
 * Location: Hamburg, Germany
   
-<!--<h4 align="center"> a Software Engineer who is a Data Science enthusiast based in Hamburg, Germany. </h4> <br> -->
-<p align = "center">
-<a href="https://www.linkedin.com/in/walidsharaar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</p>
 <h2>Desired Working Area</h2> 
 <p>
 I am interested in working in the following areas:</br>
@@ -29,9 +25,11 @@ I am interested in working in the following areas:</br>
 <h3>Data Warehousing</h3>
 * Tools: Microsoft SQL Server, SSIS, SSAS, SSRS
 * Skills: Data Integration, Data Modeling, ETL Processes, Data Mart Development
+  
 <h3>Data Analysis</h3>
 * Tools: Python, SQL, Excel, Power Query
 * Skills: Data Cleaning, Data Transformation, Statistical Analysis, Pattern Recognition
+  
 <h3>Data Visualization </h3>
 * Tools: Power BI, Excel Pivot Tables
 * Skills: Dashboard Creation, Report Generation, Data Interpretation
