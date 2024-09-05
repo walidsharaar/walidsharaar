@@ -3,6 +3,12 @@
 Hello 👋 I’m Walid Sharaar, a professional <b>Data Manager with over 9 years</b> of experience in the Software Engineering and Data Management field, especially 4 years of experience in <b>Data Analysis and Data Engineering</b>. I have successfully led and managed over 7 national MIS projects in my homeland. Recently, I completed two Data integration & transformation projects where I was the sole technical expert from my organization, integrating systems into a single data repository with the help of a third-party company. In the second project, I also played a key role in transferring our in-house databases to SAP and Salesforce, primarily using SQL and Python to fetch data from our DWH and other data reporting tools that weren't available in the DWH, and feeding Excel templates for importing data. Currently, I am working on report creation in Power BI and automation of data retrieval and reporting for our practice unit.
 </p>
 
+</h2>📫 Contact</h2>
+<p>
+* Email: walidsharar@gmail.com
+* LinkedIn: [Walid Sharaar](https://www.linkedin.com/in/walidsharaar)  
+* Location: Hamburg, Germany
+</p>
 <!--<h4 align="center"> a Software Engineer who is a Data Science enthusiast based in Hamburg, Germany. </h4> <br> -->
 <p align = "center">
 <a href="https://www.linkedin.com/in/walidsharaar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -18,7 +24,27 @@ I am interested in working in the following areas:</br>
 
 </p>
 
-<h2>Skills and Interests</h2> 
+<h2>🛠️ Skills and Technologies</h2> 
+
+<h3>Data Warehousing</h3>
+* Tools: Microsoft SQL Server, SSIS, SSAS, SSRS
+* Skills: Data Integration, Data Modeling, ETL Processes, Data Mart Development
+<h3>Data Analysis</h3>
+* Tools: Python, SQL, Excel, Power Query
+* Skills: Data Cleaning, Data Transformation, Statistical Analysis, Pattern Recognition
+<h3>Data Visualization </h3>
+* Tools: Power BI, Excel Pivot Tables
+* Skills: Dashboard Creation, Report Generation, Data Interpretation
+<h3>Database Management</h3>
+* Tools: Microsoft SQL Server, MS Access
+* Skills: Database Design, Data Migration, Data Quality Improvement
+<h3>Programming</h3>
+* Languages: Python, SQL, Java, Javascript, C#
+* Frameworks: Asp.net Core Web API, Flask, Streamlit
+<h3>Project Management</h3>
+* Methodologies: Agile, Scrum, Kanban
+* Skills: Stakeholder Management, Time Management, Deadline Adherence
+
 <p>
 
 * I have expertise in data analytics, data management, and software engineering, using technologies such as Power BI, MSBI, Python, SQL, C#, JavaScript, and various databases (e.g., Postgre SQL, MongoDB, SQL Server, Azure). 💼🔧</br>
@@ -26,6 +52,17 @@ I am interested in working in the following areas:</br>
 * I enjoy reading books, listening to music, and cycling/walking in the countryside as my hobbies. 📚🎧🚴‍ </br>
 * Fun fact: While developers love coffee, I prefer tea ❤️☕️. </br>
 </p>
+
+
+
+
+
+
+
+
+
+
+
 
  <p >
 <a  href="https://github.com/walidsharaar">
@@ -39,12 +76,7 @@ I am interested in working in the following areas:</br>
 </ol>
 </p>
   
-  <h2>Contact Me</h2>
-  <p>
-I am open to collaborations on interesting data science projects. Please feel free to reach out to me on LinkedIn or through GitHub for any inquiries or collaborations. Let's work together to find solutions and create innovative solutions! ✌️
-  </br>
-  LinkedIn: [Walid Sharaar](https://www.linkedin.com/in/walidsharaar)  💼🔗
-</p>
+  
 <!--
 <img alt="GIF" src="https://github.com/walidsharaar/walidsharaar/blob/main/code.gif?raw=true" width="600" height="320" align="center" />
 
