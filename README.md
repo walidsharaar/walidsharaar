@@ -23,28 +23,28 @@ I am interested in working in the following areas:</br>
 <h2>🛠️ Skills and Technologies</h2> 
 
 <h3>Data Warehousing</h3>
-* Tools: Microsoft SQL Server, SSIS, SSAS, SSRS
-* Skills: Data Integration, Data Modeling, ETL Processes, Data Mart Development
+<b>Tools:</b> Microsoft SQL Server, SSIS, SSAS, SSRS <br/>
+<b>Skills:</b> Data Integration, Data Modeling, ETL Processes, Data Mart Development
   
 <h3>Data Analysis</h3>
-* Tools: Python, SQL, Excel, Power Query
-* Skills: Data Cleaning, Data Transformation, Statistical Analysis, Pattern Recognition
+<b>Tools:</b> Python, SQL, Excel, Power Query<br/>
+<b>Skills:</b> Data Cleaning, Data Transformation, Statistical Analysis, Pattern Recognition
   
 <h3>Data Visualization </h3>
-* Tools: Power BI, Excel Pivot Tables
-* Skills: Dashboard Creation, Report Generation, Data Interpretation
+<b>Tools:</b> Power BI, Excel Pivot Tables <br/>
+<b>Skills:</b> Dashboard Creation, Report Generation, Data Interpretation
 <h3>Database Management</h3>
-* Tools: Microsoft SQL Server, MS Access
-* Skills: Database Design, Data Migration, Data Quality Improvement
+<b>Tools:</b> Microsoft SQL Server, MS Access <br/>
+<b>Skills:</b> Database Design, Data Migration, Data Quality Improvement
 <h3>Programming</h3>
-* Languages: Python, SQL, Java, Javascript, C#
-* Frameworks: Asp.net Core Web API, Flask, Streamlit
+<b>Languages:</b> Python, SQL, Java, Javascript, C# <br/>
+<b>Frameworks:</b> Asp.net Core Web API, Flask, Streamlit <br/>
 <h3>Project Management</h3>
-* Methodologies: Agile, Scrum, Kanban
-* Skills: Stakeholder Management, Time Management, Deadline Adherence
+<b>Methodologies:</b> Agile, Scrum, Kanban <br/>
+<b><Skills: /b> Stakeholder Management, Time Management, Deadline Adherence, Team Management
 <h3>Fun Fact</h3>
-* I enjoy reading books, listening to music, and cycling/walking in the countryside as my hobbies. 
-* While developers love coffee, I prefer tea ❤️☕️. 
+I enjoy reading books, listening to music, and cycling/walking in the countryside as my hobbies. <br/>
+While developers love coffee, I prefer tea ❤️☕️. 
 
 
 
