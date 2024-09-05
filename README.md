@@ -44,22 +44,9 @@ I am interested in working in the following areas:</br>
 <h3>Project Management</h3>
 * Methodologies: Agile, Scrum, Kanban
 * Skills: Stakeholder Management, Time Management, Deadline Adherence
-
-<p>
-
-* I have expertise in data analytics, data management, and software engineering, using technologies such as Power BI, MSBI, Python, SQL, C#, JavaScript, and various databases (e.g., Postgre SQL, MongoDB, SQL Server, Azure). 💼🔧</br>
-* I am constantly learning and improving my skills in data science, cloud computing, and statistics. 🌱📈 </br>
-* I enjoy reading books, listening to music, and cycling/walking in the countryside as my hobbies. 📚🎧🚴‍ </br>
-* Fun fact: While developers love coffee, I prefer tea ❤️☕️. </br>
-</p>
-
-
-
-
-
-
-
-
+<h3>Fun Fact</h3>
+* I enjoy reading books, listening to music, and cycling/walking in the countryside as my hobbies. 
+* While developers love coffee, I prefer tea ❤️☕️. 
 
 
 
