@@ -44,7 +44,7 @@ I am interested in working in the following areas:</br>
 <b><Skills: /b> Stakeholder Management, Time Management, Deadline Adherence, Team Management
 <h3>Fun Fact</h3>
 I enjoy reading books, listening to music, and cycling/walking in the countryside as my hobbies. <br/>
-While developers love coffee, I prefer tea ❤️☕️.  </Skills:>
+While developers love coffee, I prefer tea ❤️☕️.  </b>
 
 
  <p >
