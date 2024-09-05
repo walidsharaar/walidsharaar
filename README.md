@@ -1,6 +1,6 @@
 <h2>  Introduction </h2>
 <p>
-Hello 👋 I’m Walid Sharaar, a professional Data Manager with over 9 years of experience in the Software Engineering and Data Management field, especially 4 years of experience in Data Analysis and Data Engineering. I have successfully led and managed over 7 national MIS projects in my homeland. Recently, I completed two Data integration & transformation projects where I was the sole technical expert from my organization, integrating systems into a single data repository with the help of a third-party company. In the second project, I also played a key role in transferring our in-house databases to SAP and Salesforce, primarily using SQL and Python to fetch data from our DWH and other data reporting tools that weren't available in the DWH, and feeding Excel templates for importing data. Currently, I am working on report creation in Power BI and automation of data retrieval and reporting for our practice unit.
+Hello 👋 I’m Walid Sharaar, a professional <b>Data Manager with over 9 years</b> of experience in the Software Engineering and Data Management field, especially 4 years of experience in <b>Data Analysis and Data Engineering</b>. I have successfully led and managed over 7 national MIS projects in my homeland. Recently, I completed two Data integration & transformation projects where I was the sole technical expert from my organization, integrating systems into a single data repository with the help of a third-party company. In the second project, I also played a key role in transferring our in-house databases to SAP and Salesforce, primarily using SQL and Python to fetch data from our DWH and other data reporting tools that weren't available in the DWH, and feeding Excel templates for importing data. Currently, I am working on report creation in Power BI and automation of data retrieval and reporting for our practice unit.
 </p>
 
 <!--<h4 align="center"> a Software Engineer who is a Data Science enthusiast based in Hamburg, Germany. </h4> <br> -->
@@ -10,9 +10,12 @@ Hello 👋 I’m Walid Sharaar, a professional Data Manager with over 9 years of
 <h2>Desired Working Area</h2> 
 <p>
 I am interested in working in the following areas:</br>
-* Data Analytics 💻</br>
-* Data Management 📊</br>
-* Full Stack Development ☁️ </br>
+
+* Data Analytics 📊 </br>
+* Data Engineering 🛠️ </br>
+* Data Management 📂 </br>
+* Full Stack Development 🌐 </br>
+
 </p>
 
 <h2>Skills and Interests</h2> 
