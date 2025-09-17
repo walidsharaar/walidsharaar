@@ -37,8 +37,8 @@ I am interested in working in the following areas:</br>
 <b>Tools:</b> Microsoft SQL Server, MS Access <br/>
 <b>Skills:</b> Database Design, Data Migration, Data Quality Improvement
 <h3>Programming</h3>
-<b>Languages:</b> Python, SQL, Java, Javascript, C# <br/>
-<b>Frameworks:</b> Asp.net Core Web API, Flask, Streamlit <br/>
+<b>Languages:</b> Python, SQL, C# <br/>
+<b>Frameworks:</b> Asp.net Core Web API <br/>
 <h3>Project Management</h3>
 <b>Methodologies:</b> Agile, Scrum, Kanban <br/>
 <b><Skills: /b> Stakeholder Management, Time Management, Deadline Adherence, Team Management
