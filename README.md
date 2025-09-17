@@ -47,13 +47,6 @@ I enjoy reading books, listening to music, and cycling/walking in the countrysid
 While developers love coffee, I prefer tea ❤️☕️.  </b>
 
 
-
- <h2>Project Highlights</h2>
- <p>Here are some of the projects that highlight my expertise and interests: will structure the project here soon :)
-<ol>
-  <li></li>
-</ol>
-</p>
   
   
 
