@@ -16,7 +16,6 @@ I am interested in working in the following areas:</br>
 * Data Analytics 📊 </br>
 * Data Engineering 🛠️ </br>
 * Data Management 📂 </br>
-* Full Stack Development 🌐 </br>
 
 </p>
 
