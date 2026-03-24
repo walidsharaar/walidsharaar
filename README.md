@@ -1,9 +1,9 @@
 
 Hello 👋 I’m Walid Sharaar.
 <p>
-* Email: walidsharar@gmail.com
-* LinkedIn: [Walid Sharaar](https://www.linkedin.com/in/walidsharaar)  
-* Location: Hamburg, Germany
+* Email: walidsharar@gmail.com  </br>
+* LinkedIn: [Walid Sharaar](https://www.linkedin.com/in/walidsharaar)    </br>
+* Location: Hamburg, Germany  </br>
 </p>  
 <p>
 <h2>Desired Working Area</h2> 
